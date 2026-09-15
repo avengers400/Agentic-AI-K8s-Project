@@ -1,0 +1,5 @@
+langchain
+langchain-openai
+langgraph
+kubernetes
+typing-extensions
