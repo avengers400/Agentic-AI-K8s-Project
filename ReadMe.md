@@ -423,7 +423,7 @@ This allows the application to authenticate using the Kubernetes ServiceAccount 
 Deploy the Kubernetes resources:
 
 ```bash
-kubectl apply -f k8s-agent-demo.yaml
+kubectl apply -f agentic-ai-demo.yaml
 ```
 
 Check the workload:
